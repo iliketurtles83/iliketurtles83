@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iliketurtles83, my usurper name is @#$%^&(*&%
+- 👋 Hi, I’m @iliketurtles83
 - 👀 I’m interested in data science, movies, music, video games, overthrowing kingdoms 
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on data science, lets build the best movie/game/song recommendations app
