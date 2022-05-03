@@ -1,5 +1,5 @@
 # About
-### 👋 Hi, I’m Juri. My usurper name is iliketurtles83.
+### 👋 Hi, I’m Juri. My usurper name is 01101010011001000110111101100111.
 
 - I'm an aspiring data scientist with a background in web development, user experience and graphic design.
 - 💞️ I'm into machine learning, movies, video games, overthrowing kingdoms.
