@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @iliketurtles83
-- 👀 I like data, movies, music, video games, overthrowing kingdoms 
-- 🌱 I’m learning about data science and video games
-- 💞️ I’m looking to collaborate on anything related to what i like
-- 📫 How to reach me: kivimae [at] gmail
+# About
+### 👋 Hi, I’m Juri. My usurper name is iliketurtles83.
 
-<!---
-iliketurtles83/iliketurtles83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I'm an aspiring data scientist with a background in web development, user experience and graphic design.
+- 💞️ I'm into machine learning, movies, video games, overthrowing kingdoms.
+- Here to show off my mad skills and work on projects related to what i like.
+- 📫 Reach me: kivimae [at] gmail
+
